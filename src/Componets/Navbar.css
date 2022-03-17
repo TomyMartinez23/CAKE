@@ -1,0 +1,22 @@
+header.main-header{
+    width: 100%;
+    display: flex;
+    padding: 10px 25px;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .container-logo{
+    width: 100px;
+  }
+  
+  
+  ul.navbar{
+    list-style: none;
+    display: flex;
+  }
+  
+  ul.navbar.li{
+    margin-right: 15px;
+  }
