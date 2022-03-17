@@ -1,9 +1,10 @@
 import React from "react"
+import "./components/Navbar.css"
 
-function Navbar(){
+function Navbar() {
     return(
         <header className='main-header'>
-        <img src="logo192.png" className='img-header'/>
+        <img src="logo192.png" className='Container-logo'/>
         <ul className='navbar'>
           <li><button>Inicio</button></li>
           <li><button>Productos</button></li>
