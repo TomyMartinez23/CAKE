@@ -5,7 +5,7 @@ import Button from '@mui/material/Button';
 function Navbar() {
     return(
         <header className='main-header'>
-        <img src="./" className='Container-logo'/>
+        <img src="./imgProyecto/Logo2.jpg" className='Container-logo'/>
         <ul className='navbar'>
           <li><Button variant="contained">Inicio</Button></li>
           <li><Button variant="contained">Productos</Button></li>
