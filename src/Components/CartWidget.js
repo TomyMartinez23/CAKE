@@ -1,10 +1,9 @@
 
-
 const CartWidget = () =>{
     return(
         <div>
             icono de carro
-           <img src="./imgProyecto/">jaj</img>
+           <img src="./imgProyecto/carrito.png"></img>
            <p>xdxdx</p>
         </div>
     )
