@@ -1,0 +1,22 @@
+header.main-header{
+    width: 100%;
+    display: flex;
+    padding: 10px 15px;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  img.container-logo{
+    width: 100px;
+  }
+  
+  
+  ul.navbar{
+    list-style: none;
+    display: flex;
+  }
+  
+  ul.navbar li{
+    margin-right: 16px;
+  }
