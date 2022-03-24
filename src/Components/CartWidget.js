@@ -1,10 +1,9 @@
-
+import carrito from "../Components/imgProyecto/carrito.png"
 const CartWidget = () =>{
     return(
         <div>
-            icono de carro
-           <img src="./imgProyecto/carrito.png"></img>
-           <p>xdxdx</p>
+           <img src={carrito}></img>
+           <p></p>
         </div>
     )
 }

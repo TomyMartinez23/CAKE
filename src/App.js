@@ -6,9 +6,10 @@ import ListProducts from './Components/ListProducts/ListProduct.js';
 function App() {
 
   return (
-    <div className="App">
+    <div className="container-cards">
       <Navbar/>
-      <ListProducts></ListProducts>
+      <ListProducts ></ListProducts>
+     
       
     </div>
   );
