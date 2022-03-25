@@ -2,7 +2,7 @@ import React from "react"
 import Button from '@mui/material/Button';
 import "./Navbar.css"
 import CartWidget from "../CartWidget";
-import logo from "../imgProyecto/Logo2.jpg"
+import logo from "../imgProyecto/Logo2.png"
 
 
 function Navbar(props) {

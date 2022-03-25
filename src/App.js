@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="container-cards">
       <Navbar/>
-      <ListProducts title= "PRODUCTOS EN OFERTA" ></ListProducts>
+      <ListProducts ></ListProducts>
      
       
     </div>
