@@ -17,7 +17,6 @@ const ItemCount = () => {
         }
     }
   
-       
     return(
         <>
             <button variant="contained" onClick={remove} >-</button>
